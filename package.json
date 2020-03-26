@@ -1,0 +1,10 @@
+{
+  "author": "schwindy",
+  "name": "realeyes-mp4-converter",
+  "description": "RealEyes MP4 to HLS Converter CLI Tool",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "latest",
+    "glob": "latest"
+  }
+}
